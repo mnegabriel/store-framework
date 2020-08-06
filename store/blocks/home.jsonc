@@ -3,7 +3,7 @@
     "blocks": [
       "rich-text",
       "infocard#button-right",
-      "infocard#button-left",
+      "infocard#button-left"
     ]
   },
   "rich-text": {
