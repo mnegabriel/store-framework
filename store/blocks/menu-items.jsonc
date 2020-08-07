@@ -1,6 +1,6 @@
 {
   "menu-item#major-appliances": {
-      "clindren": ["vtex.menu@2.x:submenu#major"],
+      "children": ["vtex.menu@2.x:submenu#major"],
       "props": {
         "type": "custom",
         "highlight": true,
@@ -10,7 +10,7 @@
       }
     },
     "menu-item#small-appliances": {
-      "clindren": ["vtex.menu@2.x:submenu#small"],
+      "children": ["vtex.menu@2.x:submenu#small"],
       "props":
       {
         "type": "category",
@@ -22,7 +22,7 @@
       }
     },
     "menu-item#electronics": {
-      "clindren": ["vtex.menu@2.x:submenu#electronics"],
+      "children": ["vtex.menu@2.x:submenu#electronics"],
       "props":
     {
       "type": "category",
