@@ -30,8 +30,8 @@
 
     "flex-layout.col#img": {
         "children": [
-            "image#menu",
-            "rich-text#header"
+            "image#menu"
+            // "rich-text#header"
         ],
         "props":{
             "paddingRight": 4,
