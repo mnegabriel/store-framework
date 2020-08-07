@@ -15,7 +15,8 @@
     "header-layout.desktop": {
       "children": [
         "header-row#notification",
-        "header-row#main"
+        "header-row#main",
+        "header-row#menu"
       ]
     },
   
@@ -23,8 +24,7 @@
       "children": [
         "header-row#notification",
         "header-row#main-mobile",
-        "header-row#search",
-        "header-row#menu"
+        "header-row#search"
       ]
     },
 
