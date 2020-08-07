@@ -1,0 +1,27 @@
+{
+    "store.custom#landing": { 
+      "blocks": [
+        "image#landingbanner", 
+        "search-result-layout.customQuery"
+      ]
+    },
+
+    "image#landingbanner": {
+        "props": { 
+            "minWidth": "100%",
+            "src": "https://avatars0.githubusercontent.com/u/29488692?s=460&u=5426368a8437d58104db8968735225c6aec27af9&v=4"
+        }
+    },
+
+    "search-result-layout.customQuery":{ 
+        "props": { 
+            "minWidth": "100%",
+            "maxItemsPerPage": 8,
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "querySchema": {
+
+            }
+        }
+    }
+}
