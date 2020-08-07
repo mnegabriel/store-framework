@@ -1,7 +1,6 @@
 {
     "vtex.menu@2.x:submenu#major": {
-        "children":[ 
-            // "vtex.menu@2.x:menu#major",
+        "children":[
             "flex-layout.row#major"
          ]
     },
@@ -31,8 +30,8 @@
 
     "flex-layout.col#img": {
         "children": [
-            "image#menu"
-            // "rich-text#header"
+            "image#menu",
+            "rich-text#header"
         ],
         "props":{
             "paddingRight": 4,
